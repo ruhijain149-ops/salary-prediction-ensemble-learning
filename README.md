@@ -1,20 +1,28 @@
-# Salary Prediction using Ensemble Learning
+# 📊 Salary Prediction using Machine Learning
 
-This project predicts salary using a machine learning model based on Random Forest Regressor.
+## 📌 Description
+A machine learning project that predicts salary based on input features using ensemble learning techniques and data preprocessing.
 
-## Features
-- Data preprocessing using pandas  
-- One-hot encoding for categorical variables  
-- Model training using Random Forest  
-- Evaluation using MSE and R² score  
-- Feature importance analysis  
+## 🚀 Features
+- Data preprocessing and cleaning  
+- Model training using ensemble methods  
+- Predict salary based on input data  
+- Performance evaluation  
 
-## Technologies Used
-- Python  
-- Pandas  
-- Scikit-learn  
+## 🛠️ Tech Stack
+- Language: Python  
+- Libraries: Scikit-learn, Pandas, NumPy  
 
-## How to Run
+## ▶️ How to Run
 1. Install required libraries  
-2. Run `salary_prediction.py`  
-3. View output and model performance  
+2. Run the Python file  
+3. Provide input data to get predictions  
+
+## 📈 Future Improvements
+- Improve model accuracy  
+- Add GUI dashboard  
+- Deploy as a web application
+
+## 📸 Output Screenshot
+
+![Model Output](Output.png)
